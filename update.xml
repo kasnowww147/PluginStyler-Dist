@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.0</version>
-    <url>https://github.com/kasnowww147/PluginStyler-Dist/releases/latest/download/PluginStyler.exe</url>
+    <url>https://github.com/kasnowww147/PluginStyler-Dist/releases/latest/download/PluginStyler.zip</url>
     <changelog>https://github.com/kasnowww147/PluginStyler-Dist/releases</changelog>
     <mandatory>false</mandatory>
 
 </item>
+
