@@ -47,7 +47,7 @@ Unlike generic window managers, PluginStyler operates at the Win32 API level, le
 * **Supported DAWs:**
     * **Bitwig Studio:** Fully supported (targets `pluginhost` / `bitwigpluginhost`).
     * **Ableton Live:** Supported (intelligent filtering excludes the main Suite/Standard window).
-    * **Cockos Reaper:** Supported (excludes main `REAPERwnd`, targets VST bridges).
+    * **Cockos Reaper:** Supported (excludes main `REAPERwnd`).
 * **OS Requirements:**
     * **Windows 11 (Build 22000+):** Required for **Mica effects** and rounded corners.
     * **Windows 10 (1809+):** Supports **Custom Colors**, Borders, and **Transparency** only.
@@ -99,7 +99,7 @@ If you encounter any bugs or have suggestions for new features, please submit an
 * **支持的 DAW：**
     * **Bitwig Studio：** 完美支持（针对 `pluginhost` / `bitwigpluginhost`）。
     * **Ableton Live：** 支持（智能算法自动排除 Live Suite/Standard 主窗口）。
-    * **Cockos Reaper：** 支持（排除主程序 `REAPERwnd`，仅针对 VST 桥接窗口）。
+    * **Cockos Reaper：** 支持（排除主程序 `REAPERwnd`）。
 * **操作系统要求：**
     * **Windows 11 (Build 22000+)：** 支持所有功能（含 **Mica 云母材质**、圆角修改）。
     * **Windows 10 (1809+)：** 支持 **自定义颜色** 和 **透明度**。（受限于系统内核，Win10 无法显示 Mica 效果）。
